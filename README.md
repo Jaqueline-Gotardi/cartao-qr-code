@@ -14,3 +14,9 @@ Este pequeno desafio consiste em construir um **componente de cartão com QR Cod
 - Desenvolver com atenção aos detalhes visuais e ao layout.
 
 ---
+
+## 🔍 O que aprendi
+
+Além de reforçar conceitos básicos, aprendi o valor dos pequenos ajustes que fazem a diferença em um projeto, como margens, espaçamentos e hierarquia de fontes. Cada linha de código aqui contribuiu para meu crescimento como desenvolvedora.
+
+---
