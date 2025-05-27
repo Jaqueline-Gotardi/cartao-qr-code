@@ -26,3 +26,10 @@ Além de reforçar conceitos básicos, aprendi o valor dos pequenos ajustes que 
 > 🔽 *Imagem do projeto aqui*  
 
 ---
+
+## 🚀 Tecnologias usadas
+
+- HTML5
+- CSS3
+
+---
