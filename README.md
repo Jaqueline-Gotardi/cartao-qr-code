@@ -39,3 +39,7 @@ Além de reforçar conceitos básicos, aprendi o valor dos pequenos ajustes que 
 Se você também está na jornada de aprendizado ou já atua na área, sinta-se à vontade para deixar um feedback ou abrir uma issue. Será um prazer trocar experiências! 🌱
 
 ---
+
+## 📌 Créditos
+
+Desafio proposto por [Frontend Mentor](https://www.frontendmentor.io)  
