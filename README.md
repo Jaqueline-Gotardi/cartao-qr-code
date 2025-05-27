@@ -33,3 +33,9 @@ Além de reforçar conceitos básicos, aprendi o valor dos pequenos ajustes que 
 - CSS3
 
 ---
+
+## 🤝 Vamos trocar ideias?
+
+Se você também está na jornada de aprendizado ou já atua na área, sinta-se à vontade para deixar um feedback ou abrir uma issue. Será um prazer trocar experiências! 🌱
+
+---
