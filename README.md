@@ -23,7 +23,7 @@ Além de reforçar conceitos básicos, aprendi o valor dos pequenos ajustes que 
 
 ## 📸 Visual do projeto
 
-> 🔽 *Imagem do projeto aqui*  
+> ![code](https://github.com/user-attachments/assets/d19665e9-9426-44b0-a005-ee5c55892ee7)
 
 ---
 
