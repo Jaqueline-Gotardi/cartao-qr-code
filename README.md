@@ -2,7 +2,7 @@
 
 Este repositório contém meu primeiro projeto do [Frontend Mentor](https://www.frontendmentor.io), desenvolvido com foco em praticar HTML e CSS, reforçar a estrutura semântica e aplicar boas práticas de responsividade.
 
-![preview da tela](src/imagem/tela-responsive.png)
+![preview da tela](src/images/tela-responsive.png)
 
 **Quer ver como ficou? Confira aqui:** (https://jaqueline-gotardi.github.io/cartao-qr-code/)
 
